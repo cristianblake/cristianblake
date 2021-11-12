@@ -1,3 +1,3 @@
 - 👋 Hi, I’m @cristianblake Crisian J. López
 - 👀 I’m interested in learn and be a professional
-- 🌱 I’m currently learning MySQL and PHP
+- 🌱 I’m currently learning Angular Framework
